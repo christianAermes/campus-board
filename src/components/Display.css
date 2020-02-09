@@ -1,0 +1,12 @@
+.displayExerciseName {
+    padding: 5px 0;
+    background: #555;
+    color: #fff;
+    text-align: center;
+}
+
+.horizontalLine {
+    max-height: 4px;
+    background: #999;
+    margin: 5px 5px 0 5px; 
+}
